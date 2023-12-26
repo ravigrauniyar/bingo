@@ -1,0 +1,1 @@
+This project will attempt to replicate the game of traditional Bingo between a user and an AI.
